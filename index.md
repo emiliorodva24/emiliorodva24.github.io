@@ -4,7 +4,7 @@ This is my home page! My name is Emilio Rodriguez Varela and I am a student at [
 
 ## Computer Science Projects
 
-My GitHub page is (http://github.com/emiliorodva24)
+My GitHub page is http://github.com/emiliorodva24 
 
 ### CPSC 120
 
