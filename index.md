@@ -1,10 +1,10 @@
 # Hello World
 
-This is my home page! My name is Emilio Rodriguez Varela and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer engineering
+This is my home page! My name is Emilio Rodriguez Varela and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer engineering.
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/emiliorodva24.
+My GitHub page is http://github.com/emiliorodva24
 
 ### CPSC 120
 
